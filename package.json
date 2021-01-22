@@ -38,7 +38,7 @@
     "@angular/platform-browser": "11.1.0",
     "@angular/platform-browser-dynamic": "11.1.0",
     "@angular/router": "11.1.0",
-    "@ngneat/reactive-forms": "1.5.1",
+    "@ngneat/reactive-forms": "1.5.2",
     "@ngneat/tailwind": "5.2.3",
     "@nrwl/angular": "11.1.5",
     "@rx-angular/state": "1.4.3",
