@@ -81,7 +81,7 @@
     "postcss": "8.2.4",
     "prettier": "2.2.1",
     "tailwindcss": "2.0.2",
-    "ts-jest": "26.4.0",
+    "ts-jest": "26.4.4",
     "ts-node": "~9.1.1",
     "tslint": "~6.1.0",
     "typescript": "~4.0.3"
