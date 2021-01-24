@@ -2016,10 +2016,10 @@
     replace-in-file "^4.1.3"
     tslib "^2.0.0"
 
-"@ngneat/tailwind@5.2.3":
-  version "5.2.3"
-  resolved "https://registry.yarnpkg.com/@ngneat/tailwind/-/tailwind-5.2.3.tgz#5a1dd6c32a618d143c77cbf4acbc245658729688"
-  integrity sha512-yPKzLf9cbXuRSLSXNvb8Gq9bYBA+VNUdWoH6We/oK2+EPJD3EZXUVzxDgFBDiF5N5l3lRcR++FQxEFFXsh9uog==
+"@ngneat/tailwind@6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@ngneat/tailwind/-/tailwind-6.0.0.tgz#4c5e5753c98a257f97b36e24413453bb6c8ec532"
+  integrity sha512-9DbrD9fuSRrUt5olsJ//PryPUFG0XaF7Bh/vcXLno8oSbIhsasPinSsujPZiSUg6rxewSs3yJE1HzU9Sk/nDhg==
 
 "@ngrx/component@^10.1.2":
   version "10.1.2"
