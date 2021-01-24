@@ -96,6 +96,6 @@
     "typescript": "4.0.5"
   },
   "resolutions": {
-    "@schematics/angular": "~11.0.0"
+    "@schematics/angular": "~11.1.0"
   }
 }

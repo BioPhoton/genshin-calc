@@ -243,15 +243,6 @@
     rxjs "6.6.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@11.0.7", "@angular-devkit/schematics@~11.0.1":
-  version "11.0.7"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-11.0.7.tgz#7cd2398c98d82f8e5bdc3bb5c70e92d6b1d12a12"
-  integrity sha512-mKkXWmSTlZYjQO4i7xUX+bG1E9h9Ke3GgGQQouA+kth06IPO+VcywLQNsui4qcyLDUjyo8CaX+44aoSXoX3Tgg==
-  dependencies:
-    "@angular-devkit/core" "11.0.7"
-    ora "5.1.0"
-    rxjs "6.6.3"
-
 "@angular-devkit/schematics@11.1.1":
   version "11.1.1"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-11.1.1.tgz#323643a3d2c57abcc7c34f0674d5b43cd64717ff"
@@ -259,6 +250,15 @@
   dependencies:
     "@angular-devkit/core" "11.1.1"
     ora "5.2.0"
+    rxjs "6.6.3"
+
+"@angular-devkit/schematics@~11.0.1":
+  version "11.0.7"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-11.0.7.tgz#7cd2398c98d82f8e5bdc3bb5c70e92d6b1d12a12"
+  integrity sha512-mKkXWmSTlZYjQO4i7xUX+bG1E9h9Ke3GgGQQouA+kth06IPO+VcywLQNsui4qcyLDUjyo8CaX+44aoSXoX3Tgg==
+  dependencies:
+    "@angular-devkit/core" "11.0.7"
+    ora "5.1.0"
     rxjs "6.6.3"
 
 "@angular-eslint/eslint-plugin-template@1.1.0":
@@ -2381,14 +2381,14 @@
   dependencies:
     any-observable "^0.3.0"
 
-"@schematics/angular@11.1.1", "@schematics/angular@~11.0.0", "@schematics/angular@~11.0.1":
-  version "11.0.7"
-  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-11.0.7.tgz#bb992d25d5291fd31f048cbb295c3a7bbde6a4e1"
-  integrity sha512-h8ZmHJvMcvre3rzaDBu1b5RxaaBe008kcniFNeks5nHTQRqDL/5Thg4YhIgH9VQ9Yf8U4atLjRJK5PG1OzmgDA==
+"@schematics/angular@11.1.1", "@schematics/angular@~11.0.1", "@schematics/angular@~11.1.0":
+  version "11.1.1"
+  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-11.1.1.tgz#3f641c0fd841dee78ca8efc10700c5cfff34ec63"
+  integrity sha512-K4G+PwCIGYE6aw28ZcqAhw+qI6I8d8qtE3D1Vd4MPVuguDWpNEaB0Y+TIYWzukh5bmOqdl9m/fkw6eZeOglUuQ==
   dependencies:
-    "@angular-devkit/core" "11.0.7"
-    "@angular-devkit/schematics" "11.0.7"
-    jsonc-parser "2.3.1"
+    "@angular-devkit/core" "11.1.1"
+    "@angular-devkit/schematics" "11.1.1"
+    jsonc-parser "3.0.0"
 
 "@schematics/update@0.1101.1":
   version "0.1101.1"
@@ -8742,11 +8742,6 @@ json5@^1.0.1:
   integrity sha512-aKS4WQjPenRxiQsC93MNfjx+nbF4PAdYzmd/1JIj8HYzqfbu86beTuNgXDzPknWk0n0uARlyewZo4s++ES36Ow==
   dependencies:
     minimist "^1.2.0"
-
-jsonc-parser@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-2.3.1.tgz#59549150b133f2efacca48fe9ce1ec0659af2342"
-  integrity sha512-H8jvkz1O50L3dMZCsLqiuB2tA7muqbSg1AtGEkN0leAqGjsUzDJir3Zwr02BhqdcITPg3ei3mZ+HjMocAknhhg==
 
 jsonc-parser@3.0.0:
   version "3.0.0"
